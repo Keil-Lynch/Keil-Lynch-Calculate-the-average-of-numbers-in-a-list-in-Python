@@ -23,11 +23,11 @@ Program Explanation
 
 Test Case Study (Run Program)
 
-(Console Prompt) Enter the number of elements to be inserted: 	User Input: 4
+(Console Prompt) Enter the number of elements to be inserted: (User Input)4
 
-(Console Prompt) Enter element: 	User Input: 9
-(Console Prompt) Enter element: 	User Input: 6
-(Console Prompt) Enter element: 	User Input: 3
-(Console Prompt) Enter element: 	User Input: 1
+(Console Prompt) Enter element: (User Input) 9
+(Console Prompt) Enter element: (User Input) 6
+(Console Prompt) Enter element: (User Input) 3
+(Console Prompt) Enter element: (User Input) 1
 
 (Output) Average of elements in the list 4.75
