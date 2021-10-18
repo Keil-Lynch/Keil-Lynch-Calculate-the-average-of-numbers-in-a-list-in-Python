@@ -1,5 +1,6 @@
 # Keil-Lynch-Calculate-the-average-of-numbers-in-a-list-in-Python
 It takes each element of the list one at a time and displays the average.
+
 Problem Solution
 
 1. As input, provide the number of items to be stored in the list.
